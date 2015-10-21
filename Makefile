@@ -1,6 +1,6 @@
 
-mmd5: main.c md5.c md5.h
+nginx_md5: main.c md5.c md5.h
 	gcc main.c md5.c -o $@
 
 clean:
-	rm -f mmd5
+	rm -f nginx_md5
