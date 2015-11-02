@@ -1,4 +1,4 @@
-# nginx_md5
+# Nginx Utils
 This is a small project which calculate the md5 hash for nginx caching. 
 User can use this to detect if your nginx has cached a specific request or not, or remove a specific cache from disk.
 
